@@ -2,13 +2,14 @@
 layout: default
 ---
 
-{% include 01-name.md %}
+
+![SPH1](https://www.pexels.com/photo/scenic-view-of-beach-248797/)
 
 <br>
 
-{% include 02-image.md %}
+![SPH2](https://www.pexels.com/photo/trees-in-park-257360/)
 
 <br>
 
-{% include 03-links.md %}
+![SPH3](https://www.pexels.com/photo/nature-red-forest-leaves-33109/)
 
